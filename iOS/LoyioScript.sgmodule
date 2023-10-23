@@ -36,4 +36,4 @@ wb_plus.js = requires-body=1,max-size=-1,script-path=https://raw.githubuserconte
 
 
 [MITM]
-hostname = %APPEND% *.amemv.com, *.uve.weibo.com, api.weibo.cn, mapi.weibo.com, ios.prod.ftl.netflix.com, trade-acs.m.taobao.com, api.weather.com, weather-data.apple.com, m.weibo.cn, guide-acs.m.taobao.com
+hostname = %APPEND% *.uve.weibo.com, api.weibo.cn, mapi.weibo.com, ios.prod.ftl.netflix.com, trade-acs.m.taobao.com m.weibo.cn, guide-acs.m.taobao.com
